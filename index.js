@@ -1,2 +1,1 @@
-console.log('Hello from my-project!')
-j
+console.log('Hello from my-project!'
